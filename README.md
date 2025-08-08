@@ -38,8 +38,6 @@ This agent is designed to work seamlessly with UOMI’s core technologies:
 
 ---
 
-Input Schema (JSON)
-
 {
   "symbol": "JTOUSDT",
   "price": 2.774,
@@ -56,8 +54,6 @@ Input Schema (JSON)
     { "close": 2.774 }
   ]
 }
-
-
 
 Output Schema (JSON)
 
@@ -79,4 +75,5 @@ Output Schema (JSON)
 }
 
 📄 License
+
 MIT License – feel free to use, modify, and integrate into your dApps.
