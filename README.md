@@ -44,12 +44,9 @@ Input
 
 Output
 
-
+<img width="450" height="261" alt="output" src="https://github.com/user-attachments/assets/d017513f-18b8-4d5a-9eb2-ba7faa2e673d" />
 
 
 📄 License
 
 MIT License – feel free to use, modify, and integrate into your dApps.
-
-
-
