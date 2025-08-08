@@ -40,10 +40,13 @@ This agent is designed to work seamlessly with UOMI’s core technologies:
 
 Output Schema (JSON)
 
+<img width="212" height="263" alt="input" src="https://github.com/user-attachments/assets/a31bbcd5-e526-400f-971b-0ac8bc3c604d" />
+
 Output Schema (JSON)
 
 
 📄 License
 
 MIT License – feel free to use, modify, and integrate into your dApps.
+
 
