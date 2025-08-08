@@ -24,20 +24,6 @@ For: **UOMI Network – The AI-Native Blockchain**
 
 ---
 
-## 🔧 Built for UOMI Infrastructure
-
-This agent is designed to work seamlessly with UOMI’s core technologies:
-
-| UOMI Feature | How This Agent Uses It |
-|-------------|------------------------|
-| **OPoC (Optimistic Proof of Computation)** | Results are verifiable — validators can challenge incorrect computations. |
-| **TEE Oracles** | Fetches real-time klines and 24h stats from Binance API securely and trustlessly. |
-| **TSS (Threshold Signature Scheme)** | Agent can be upgraded later to sign cross-chain transactions (e.g. DEX trades). |
-| **EVM Compatible** | Built with Rust → WASM, but fully integrable with Solidity-based UOMI smart contracts. |
-| **Autonomous NFT** | Each agent is an NFT with logic, capable of evolving and interacting across ecosystems. |
-
----
-
 Input
 
 <img width="212" height="263" alt="input" src="https://github.com/user-attachments/assets/a31bbcd5-e526-400f-971b-0ac8bc3c604d" />
@@ -50,3 +36,4 @@ Output
 📄 License
 
 MIT License – feel free to use, modify, and integrate into your dApps.
+
