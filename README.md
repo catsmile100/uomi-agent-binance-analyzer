@@ -4,12 +4,6 @@
 Analyzes any USDT trading pair on Binance Spot.  
 Timeframe: 1h.  
 No trading signals — only raw, verifiable data.
-
-Created by: **@catsmile**  
-For: **UOMI Network – The AI-Native Blockchain**
-
-> *"Where AI meets decentralization"*
-
 ---
 
 ## ✅ Features
@@ -19,7 +13,6 @@ For: **UOMI Network – The AI-Native Blockchain**
 - 24h Price Change (%)
 - 24h Volume (in USDT)
 - Direct TradingView chart link
-- Fully on-chain compatible with **OPoC** and **TEE Oracles**
 - No opinions — only objective, verifiable technical data
 
 ---
@@ -36,4 +29,5 @@ Output
 📄 License
 
 MIT License – feel free to use, modify, and integrate into your dApps.
+
 
