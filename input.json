@@ -1,0 +1,16 @@
+{
+  "symbol": "JTOUSDT",
+  "price": 2.774,
+  "price_24h": 2.662,
+  "volume_24h": 87654321,
+  "klines_1h": [
+    { "close": 2.650 },
+    { "close": 2.660 },
+    { "close": 2.670 },
+    { "close": 2.690 },
+    { "close": 2.710 },
+    { "close": 2.730 },
+    { "close": 2.750 },
+    { "close": 2.774 }
+  ]
+}
